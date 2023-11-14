@@ -32,16 +32,7 @@
 ## Mysql环境配置
 安装Mysql:`sudo apt install mysql-server`<br>
 
-
-
-### cpp环境
-
-
-
-
-
-
-
+> 正在更新README.md中😊😊😊
 
 
 
